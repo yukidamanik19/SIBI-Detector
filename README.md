@@ -10,6 +10,16 @@ A final-year capstone project focused on building a real-time Indonesian Sign La
 
 ---
 
+## 📊 Dataset
+
+The dataset used for training the custom SIBI hand gesture model is available on Kaggle. It contains annotated images of hand gestures representing various SIBI words, collected and preprocessed for model training.
+
+🔗 [View Dataset on Kaggle]([https://www.kaggle.com/your-username/sibi-dataset](https://www.kaggle.com/datasets/aprioadam/sibi-sistem-isyarat-bahasa-indonesia/data)
+
+> The dataset was cleaned and labeled manually to suit real-time classification using MediaPipe and TensorFlow Lite.
+
+---
+
 ## 🚀 Features
 
 - Real-time hand gesture detection with MediaPipe
